@@ -1792,6 +1792,24 @@ export function Card ({name,time,index,onDelete}){
 
 ```
 
+## Sistema de Mensagens
+
+> Essa funcionalidade serve para sinalizar as ações executadas pelo usuário na hora de cadastrar os alunos.
+
+As mensagens de alertas são dividas em três campos:
+
+- Sucess - As mensagens de sucesso se referem a ações como criar e deletar usuários.
+- Error - As mensagens de erro se referem a ações como criar um usuário vazio.
+- Care - As mensagens de cuidado se referem a resposta do sistema a limpar o input, informando que a criação dos usuários varia de 1s.
+
+- **Resultado:**
+
+<img alt="Symbol-Code" height="400" weigth="400" style="border-radius:150px" src="https://user-images.githubusercontent.com/100232025/231748479-bd301e81-a392-4e3e-9736-a3b399e46fc7.gif">
+
+## O projeto Presence List
+
+<img alt="Symbol-Code" height="400" weigth="400" style="border-radius:150px" src="">
+
 ## Referências
 
 - https://dev.to/lixeletto/vite-js-o-build-tool-que-vai-facilitar-a-sua-vida-15ho

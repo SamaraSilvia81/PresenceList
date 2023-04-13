@@ -1808,7 +1808,7 @@ As mensagens de alertas são dividas em três campos:
 
 ## O projeto Presence List
 
-<img alt="Symbol-Code" height="400" weigth="400" style="border-radius:150px" src="https://user-images.githubusercontent.com/113690864/223723653-6a2bdbed-cb6a-4714-92a9-4e47a0e1d089.gif">
+<img alt="Symbol-Code" height="400" weigth="400" style="border-radius:150px" src="">
 
 ## Referências
 

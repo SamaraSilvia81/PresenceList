@@ -1,17 +1,12 @@
-# React JS
+![PresenceList Logo](https://user-images.githubusercontent.com/100232025/231757966-776d3d18-f9e3-46fc-9c05-79432ffabeeb.gif)
+# Projeto Presence List - React JS 
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=EA4689&style=for-the-badge)
 
-> Uma biblioteca JavaScript que tem o objetivo de criar interfaces.
-
-- **Por que React JS é uma biblioteca e não um framework?** 
-Porque, ele não tem uma opinião forte, ou seja, uma estrutura bem definida de pastas e regras que os frameworks em si têm. Ele te dá mais liberdade para criar as interfaces da maneira que preferir. Em suma, ele não tem uma estrutura pronta com componentes nativos como é o caso do React Native.
-
-**Por exemplo**, para criar um espaço eu posso:
-    - Criar uma div, section... --> React JS
-    - Usar a View, um componente do React Native que pode funcionar como todas as outras tags anteriores.
+## Deploy do Projeto 
+- **Deploy:** https://app-presence-list.vercel.app/
 
 ## Criando Projeto 
-
-Ao criar um projeto utilizando o React JS podemos utilizar os seguintes boilerplates:
+> Ao criar um projeto utilizando o React JS podemos utilizar os seguintes boilerplates:
 
 - Create React App (CRA)
 - Vite
@@ -1807,7 +1802,6 @@ As mensagens de alertas são dividas em três campos:
 <img alt="Symbol-Code" height="400" weigth="400" style="border-radius:150px" src="https://user-images.githubusercontent.com/100232025/231748479-bd301e81-a392-4e3e-9736-a3b399e46fc7.gif">
 
 ## O projeto Presence List
-
 <img alt="Symbol-Code" height="400" weigth="400" style="border-radius:150px" src="">
 
 ## Referências

@@ -83,7 +83,7 @@ export function Home() {
 
   useEffect(() => {
     async function fetchData() {
-      const response = await fetch('https://api.github.com/users/samarasilvia81')
+      const response = await fetch('https://api.github.com/users/samarasilvia21')
       const data = await response.json();
       console.log("DATAS: ", data);
       setUser({

@@ -1801,9 +1801,6 @@ As mensagens de alertas são dividas em três campos:
 
 <img alt="Symbol-Code" height="400" weigth="400" style="border-radius:150px" src="https://user-images.githubusercontent.com/100232025/231748479-bd301e81-a392-4e3e-9736-a3b399e46fc7.gif">
 
-## O projeto Presence List
-<img alt="Symbol-Code" height="400" weigth="400" style="border-radius:150px" src="">
-
 ## Referências
 
 - https://dev.to/lixeletto/vite-js-o-build-tool-que-vai-facilitar-a-sua-vida-15ho
